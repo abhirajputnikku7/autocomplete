@@ -3,5 +3,7 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
   },
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "rust-analyzer.rustfmt.rangeFormatting.enable": true,
+  "vue.trace.server": "messages"
 }
